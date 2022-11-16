@@ -9,10 +9,10 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Angular Projects.
+- 🔭 I’m currently working on React Projects.
 - 🏢 I’m also learning and enhancing my skills in tech world.
 - 🌱 I've 2+ years of work experience in tech World.
-- 👯 I’m looking to collaborate on Angular projects & Open Source.
+- 👯 I’m looking to collaborate on React projects & Open Source.
 - 💬 Ask me about Computer World.
 
 <p>Connect with me on
