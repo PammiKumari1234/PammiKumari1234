@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amit </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Pammi </h1>
 
-## Welcome to my Profile ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amit-kr-singh)
+## Welcome to my Profile ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PammiKumari1234)
 
 
-My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https://cuedo.in/). 
+My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://www.capgemini.com/). 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -19,17 +19,16 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/amit-kumar-singh-258a58199/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/Amit_Singh_Aksh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+<a target="_blank" href="mailto:pammisao1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:amit16.jsr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://github.com/amit-kr-singh"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/PammiKumari1234"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 
 
 
 
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amit-kr-singh&theme=gruvbox" alt="Stats"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PammiKumari1234&theme=gruvbox" alt="Stats"  /></p>
 
 
 <hr>
@@ -37,8 +36,8 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-kr-singh&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amit-kr-singh&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PammiKumari1234&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PammiKumari1234&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 
@@ -46,7 +45,7 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=amit-kr-singh&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=PammiKumari1234&theme=gruvbox&hide_border=true&area=true)
 
 
 ## 🛠️ My Skills
@@ -60,11 +59,7 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
 ### 👉 Frameworks
 <p align="left"> 
  &emsp;
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  &emsp;
-  <img alt="VueJs" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  &emsp; 
-  <img alt="NuxtJs" src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
+  <img alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
   &emsp;
 </p>
 
@@ -173,7 +168,7 @@ My name is Amit Kumar Singh, I'm a Software Engineer at [Cuedo Analytics](https:
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=amit-kr-singh&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=PammiKumari1234&theme=gruvbox" />
 
 
 
