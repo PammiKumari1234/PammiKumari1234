@@ -52,7 +52,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 ### 👉 Programming languages
 <p align="left"> 
   
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&emsp;![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&emsp;![](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white)&emsp;![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&emsp;![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&emsp;![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 </p>
 
 
@@ -60,6 +60,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 <p align="left"> 
  &emsp;
   <img alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+ <img alt="Redux" src="[https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)/>
   &emsp;
 </p>
 
