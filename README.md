@@ -56,7 +56,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 </p>
 
 
-### 👉 Frameworks
+### 👉 Frameworks | Library
 <p align="left"> 
  &emsp;
   <img alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
