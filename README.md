@@ -17,9 +17,9 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 
 <h3>Connect with me on</h3>
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/pammi-kumari-099978179/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:pammisao1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://github.com/PammiKumari1234"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/pammi-kumari-099978179/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> 
+   <a target="_blank" href="mailto:pammisao1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+   <a target="_blank" href="https://github.com/PammiKumari1234"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 
 
 
@@ -57,7 +57,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 <p align="left"> 
  &emsp;
   <img alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
- <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   &emsp;
 </p>
 
