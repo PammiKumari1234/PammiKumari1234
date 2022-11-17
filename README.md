@@ -18,10 +18,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 <p>Connect with me on
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/pammi-kumari-099978179/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-
 <a target="_blank" href="mailto:pammisao1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
 <a target="_blank" href="https://github.com/PammiKumari1234"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 
 
