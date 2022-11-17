@@ -68,7 +68,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 ### 👉 Databases & Cloud Hosting
 <p align="left">
  &emsp;
-  <img alt="MySQL" src="[https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)">
+  <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   &emsp;
 </p>
 
