@@ -60,7 +60,7 @@ My name is Pammi Kumari, I'm a Senior Software Engineer at [Capgemini](https://w
 <p align="left"> 
  &emsp;
   <img alt="ReactJs" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
- <img alt="Redux" src="[https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)/>
+ <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   &emsp;
 </p>
 
