@@ -3,7 +3,7 @@
 ## Welcome to my Profile ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PammiKumari1234)
 
 
-My name is Pammi Kumari, I'm a Systems Engineer at [iOPEX](https://www.iopex.com/). 
+My name is Pammi Kumari, I'm a Senior Software Engineer at [iOPEX](https://www.iopex.com/). 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
