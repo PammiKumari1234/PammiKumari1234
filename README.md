@@ -20,6 +20,42 @@
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+**Languages**  
+JavaScript (ES6+), TypeScript, HTML5, CSS3
+
+**Frameworks & Libraries**  
+React.js, Redux, Redux Toolkit, Bootstrap, Flexbox
+
+**Testing**  
+Jest
+
+**Build Tools**  
+Webpack, Babel, NPM, Yarn
+
+**Version Control & Dev Tools**  
+Git, GitHub, Bitbucket, JIRA
+
+**Databases**  
+SQL Server
+
+**Other**  
+Responsive Web Design, REST APIs, SSR, GitHub Pages, Accessibility (ARIA)
+
+---
+
+## 💼 What I Do
+
+⚛️ Build scalable front-end apps using React.js  
+🧱 Develop reusable components & UI libraries  
+🧩 Translate UI/UX designs into functional code  
+🚀 Optimize app performance and responsiveness  
+🐞 Debug and fix complex UI bugs  
+🔄 Collaborate across teams and drive clean coding practices  
+
+---
+
 ## 📬 Let’s Connect
 
 <a href="https://www.linkedin.com/in/pammi-kumari-099978179/" target="_blank">
@@ -84,6 +120,3 @@
 
 > 🎯 *I believe code should be functional, accessible, and delightful—just like a good cup of chai!*
 
----
-
-Let me know if you'd like to include a personal quote, a featured project, or your favorite tech stack badges. We can add more flair if you're in the mood!
